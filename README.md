@@ -9,4 +9,4 @@
 
 ## Demo
 
-[live Demo](https://ecommerce-furniture-website.netlify.app/)
+[live Demo]()
